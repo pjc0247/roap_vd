@@ -1,5 +1,5 @@
 # roap_vd
-roap validation extension (draft)
+roap data validation extension (draft)
 
 ```rb
 class Foo
@@ -11,3 +11,11 @@ class Foo
   end
 end
 ```
+
+* length(Range)
+* length(Fixnum)
+* regex(Regex)
+* nullable
+* within(Enum)
+* within(Range)
+* equal(Object)
