@@ -1,5 +1,5 @@
 # roap_vd
-roap data validation extension (draft)
+roap data validation extension
 
 ```rb
 class Foo
